@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a9c798b-298c-4437-be7e-2c29b8c3849f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Channel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Coroutines1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Coroutines2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibExceptions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibFunctional.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibFunctional2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibImperative.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibJava.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibRecursivoBasico.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FibWhen.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Flow.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Immutable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/OOP.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="fetvgwhu" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2OyfZc1fnvWniaGp9pLIhFT1ByK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/kotlin/" />
+      <recent name="$PROJECT_DIR$/src/main/kotlin/coruotines" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FibRecursivoBasicoKt">
+    <configuration name="FibRecursivoBasicoKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibRecursivoBasicoKt" />
+      <module name="TallerKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmutableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImmutableKt" />
+      <module name="TallerKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LambdaKt" />
+      <module name="TallerKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Null1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Null1Kt" />
+      <module name="TallerKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Null2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Null2Kt" />
+      <module name="TallerKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FibRecursivoBasicoKt" />
+        <item itemvalue="Kotlin.LambdaKt" />
+        <item itemvalue="Kotlin.ImmutableKt" />
+        <item itemvalue="Kotlin.Null2Kt" />
+        <item itemvalue="Kotlin.Null1Kt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9c798b-298c-4437-be7e-2c29b8c3849f" name="Changes" comment="" />
+      <created>1682537798698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682537798698</updated>
+    </task>
+    <servers />
+  </component>
+</project>
